@@ -7,7 +7,7 @@ Let's Work
 
 ## What and Why: 
 The software system would be an application that improves the current way NYU students receive announcements about jobs, research, and educational opportunities via the NYU CS mailing list. 
-The motivation behind the project is that the current mailing list (opportunities@cs.nyu.edu) and archive is not very user-friendly as the emails usually have signifcant extraneous details outside the announcement and an email is sent for each new announcement which indundates the inbox and may get skipped over. There is also an archive Thus, these great opportunities may not be reaching students and getting fulfilled. 
+The motivation behind the project is that the current mailing list (opportunities@cs.nyu.edu) and archive is not very user-friendly as the emails usually have signifcant extraneous details outside the announcement and an email is sent for each new announcement which indundates the inbox and may get skipped over. Thus, these great opportunities may not be reaching students and getting fulfilled. 
 The application would streamline access to and applying for these positions by having both features on a single platform. 
 
 ## For Whom: 
