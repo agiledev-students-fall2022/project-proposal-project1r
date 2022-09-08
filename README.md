@@ -2,7 +2,7 @@
 
 # Project Proposal
 
-## Project Ttile: 
+## Project Title: 
 Let's Work 
 
 ## What and Why: 
